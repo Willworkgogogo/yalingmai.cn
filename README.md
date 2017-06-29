@@ -1,0 +1,2 @@
+# yalingmai.cn
+my website
